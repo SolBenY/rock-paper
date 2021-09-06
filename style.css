@@ -1,0 +1,56 @@
+body {
+background-color: rgb(243, 175, 148);
+font-family: bold fantasy;
+text-align: center;
+padding: 70px;
+
+
+
+}
+#btn{
+    padding: 10px;
+    width: 200px ;
+    border-radius: 10px;
+    background-color: rgb(181, 227, 255);
+    color: palevioletred ;
+    font-family: Marker Felt, fantasy;
+    font-size: 22px;
+    border-color: rgb(69, 140, 206);
+    font-weight: 600;
+}
+#btn:hover{
+    background-color: rgb(69, 140, 206);
+    color: rgb(133, 43, 98) ;
+}
+h1{
+    padding: 10px;
+    font-weight: 600;
+    text-align: center;
+    color: rgb(221, 90, 134) ;
+    font-family:Marker Felt, fantasy;
+    font-size: 55px;
+}
+.the-score{
+    font-family: Marker Felt, fantasy;
+    font-size: 30px;
+    color: rgb(182, 29, 182);
+    border: 30px;
+    font-weight: 600;
+    padding: 10px;
+}
+
+p{
+   font-family: Marker Felt, fantasy;
+   font-size: 32px ;
+   color: rgb(223, 91, 135) ;
+   font-weight: 600;
+   padding: 10px;
+   
+}
+.end-result{
+    font-family: Marker Felt, fantasy;
+   font-size: 32px ;
+   color: rgb(223, 91, 135) ;
+   font-weight: 600;
+   padding: 10px;
+}
